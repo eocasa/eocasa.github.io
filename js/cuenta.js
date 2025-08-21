@@ -31,5 +31,5 @@ const getRemainingTime = deadline => {
     }, 1000)
   };
   
-  countdown('Oct 1 2024 7:00:00 GMT-0300', 'cuenta', 'Redirigiendo...');
+  countdown('OCT 1 2025 7:00:00 GMT-0300', 'cuenta', 'Redirigiendo...');
   
